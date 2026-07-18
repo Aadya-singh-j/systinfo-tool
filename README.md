@@ -8,5 +8,6 @@ chmod +x info.sh
 ./info.sh
 ```
 ## myself
-```whoami
+```bash
+whoami
 ```
