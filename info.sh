@@ -1,3 +1,4 @@
+
 #!/bin/bash
 echo "=== System Info ==="
 echo "Hostname: $(Aadya)"
@@ -8,3 +9,5 @@ df -h
 echo ""
 echo "=== Memory Usage ==="
 free -h
+echo "=== User Info ==="
+whoami
