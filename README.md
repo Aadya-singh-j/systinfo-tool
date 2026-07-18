@@ -7,5 +7,6 @@ A simple Bash script that prints basic system information: hostname, current dat
 chmod +x info.sh
 ./info.sh
 ```
-
-just to use gitpull
+## myself
+```whoami
+```
